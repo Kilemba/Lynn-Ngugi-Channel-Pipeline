@@ -385,7 +385,7 @@ This project is licensed under the MIT License.
 
 For questions, suggestions, or collaboration opportunities:
 - Open an issue on GitHub
-- Reach out via [your email]
+- Reach out via calebkilemba843@gmail.com
 - Connect on LinkedIn
 
 ---
